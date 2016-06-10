@@ -3,6 +3,8 @@
  * 2 seconds after user stops typing into an input or textarea.
  * This is useful when you want to catch a text change before the input 
  * goes out of focus, but not on every single keystroke.
+ * @Author Rob Parham
+ * @Website https://github.com/Pamblam/textChange
  */
 (function($){
 	var listenInterval = 1;
